@@ -1,6 +1,7 @@
 AtlasXplore Video Guides
 ===========================================
 
+Click `here`_ for a link to the entire video playlist.
 
 Lasso Selector
 ______________
@@ -30,12 +31,12 @@ ____________
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/YKY4nPoztCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Place Holder for SeqLogo
+Motif Search
 ________________________
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wmv6G4RbtNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aRd8B6STAXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Customization
 _____________
@@ -43,3 +44,5 @@ _____________
 .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WAr_DT0hBVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. _here: https://www.youtube.com/channel/UCjmtjU1p-CILwuieTMj0UvQ/playlists
