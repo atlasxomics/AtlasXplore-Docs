@@ -24,6 +24,13 @@ _______________
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wmv6G4RbtNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Motif Search
+________________________
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aRd8B6STAXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Saving Plot
 ____________
 
@@ -31,12 +38,6 @@ ____________
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/YKY4nPoztCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Motif Search
-________________________
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/aRd8B6STAXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Customization
 _____________
