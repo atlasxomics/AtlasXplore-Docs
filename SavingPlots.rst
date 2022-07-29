@@ -1,7 +1,7 @@
-Saving Plots
+Saving Plot
 _____________
 
-The plots shown in AtlasXplore can be saved with or without background. The Genome Browser or SeqLogo will be saved in a separate plot.
+The plot shown in AtlasXplore can be saved with or without background. The Genome Browser view or SeqLogo will be saved in a separate plot.
 
 .. raw:: html
 
