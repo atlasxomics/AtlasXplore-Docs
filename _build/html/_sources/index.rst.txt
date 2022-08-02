@@ -1,52 +1,30 @@
-AtlasXplore Video Guides
-===========================================
-
-Click `here`_ for a link to the entire video playlist.
-
-Gene Search
-___________
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/pF67XlJGWZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Genome Browser
-_______________
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wmv6G4RbtNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Motif Search
-________________________
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/aRd8B6STAXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Welcome to AtlasXplore’s Documentation! |Home_Icon|
+====================================================
 
 
-Lasso Selector
-______________
+AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omics data. Click `here`_ for a list of video instructions for how to use AtlasXplore on YouTube. Learn more about `AtlasXomics`_.
 
-.. raw:: html
+.. _AtlasXomics: https://www.atlasxomics.com
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tZl5EEN5Z-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. toctree::
+   :maxdepth: 6
+   :caption: Sections:
 
-Customization
-_____________
+   GeneSearch
+   GenomeBrowser
+   MotifSearch
+   LassoSelector
+   Customization
+   SavingPlots
 
-.. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WAr_DT0hBVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Saving Plot
-____________
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/YKY4nPoztCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. image:: /images/atlasbg.png
 
 
 
 
 .. _here: https://www.youtube.com/channel/UCjmtjU1p-CILwuieTMj0UvQ/playlists
+
+.. |Home_Icon| image:: /images/AtlasHome.png
+               :width: 30
+               :target: https://docs.atlasxomics.com
