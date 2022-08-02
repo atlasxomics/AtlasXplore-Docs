@@ -7,7 +7,7 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
 .. _AtlasXomics: https://www.atlasxomics.com
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 8
    :caption: Sections:
 
    GeneSearch
