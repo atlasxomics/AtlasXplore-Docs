@@ -1,5 +1,5 @@
-Welcome to AtlasXplore’s Documentation! |Home_Icon|
-====================================================
+Welcome to AtlasXplore’s Documentation!
+=======================================
 
 
 AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omics data. Click `here`_ for a list of video instructions for how to use AtlasXplore on YouTube. Learn more about `AtlasXomics`_.
@@ -38,11 +38,10 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
    SavingPlots
 
 .. toctree::
-   :caption: Epigenome Data Analysis
-   :hidden:
+   :caption: AtlasXomics:
 
-   Introduction <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Introduction.html>
-
+   Spatial Epigenome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialEpigenome.html>
+   Spatial Transcriptome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialTranscriptome.html>
 
 .. image:: /images/atlasbg.png
 
