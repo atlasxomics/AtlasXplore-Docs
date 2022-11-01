@@ -40,8 +40,8 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
 .. toctree::
    :caption: Epigenome Data Analysis
    :hidden:
-   
-   Data Pipeline <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/#dependencies>
+
+   Introduction <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Introduction.html>
 
 
 .. image:: /images/atlasbg.png
