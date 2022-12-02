@@ -1,12 +1,8 @@
-Customization |Home_Icon|
-__________________________
+Customization
+________________
 
 AtlasXplore supports customizing the plots in many different ways, including user defined cell type labeling.
 
 .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WAr_DT0hBVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |Home_Icon| image:: /images/AtlasHome.png
-               :width: 30
-               :target: https://docs.atlasxomics.com
