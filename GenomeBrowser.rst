@@ -57,5 +57,7 @@ Once your genes are selected, you should see a genome view like this
 **Histograms**
 
 To view the histogram for TSS Enrichment and Fragments, click the third icon, the bar graph, to the left of the *Feature Table*
+The x-axis is the *gene score*
+The y-axis is the number of *tixels*
 
 .. image:: /images/12.png
