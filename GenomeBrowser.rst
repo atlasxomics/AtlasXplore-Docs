@@ -30,3 +30,27 @@ To customize tracks select one then open the *Track Editor*, the road icon.
 Change the order of tracks by dragging the name-tabs and dropping it elsewhere in the browser display. Can reset the browser from the Settings panel.
 
 .. image:: /images/6.png
+
+**Adding Data**
+
+To add a new track or select/ deselect clusters, click the plus icon. 
+
+.. image:: /images/8.png
+
+To add arbitrary Distributed Annotation System (DAS) data by running your own DAS server, add custom track or lab-specific data 
+
+.. image:: /images/9.png
+
+To add indexed binary files, click *Binary* and upload bigBed, bigWig, BAM, or .2bit file.
+
+.. image:: /images/10.png
+
+To view all keyboard shortcuts, click the question mark icon
+
+.. image:: /images/11.png
+
+**Export Data**
+
+To export the data as an image, SVG, or Dalliance page by clicking the printer icon. 
+
+.. image:: /images/7.png
