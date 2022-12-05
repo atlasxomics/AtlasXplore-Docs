@@ -6,6 +6,7 @@ For spatial ATAC data, AtlasXplore can be used to check the gene score of certai
 Navigate to https://web.atlasxomics.com/
 
 Navigating the top bar menu (from left to right)
+
 <img width="1509" alt="1" src="https://user-images.githubusercontent.com/117233941/205727302-448586e5-f3d2-4ddf-9b0e-67d4a66bddbb.png">
 
 Gene Motif:
