@@ -9,48 +9,47 @@ AtlasXplore uses the BioDalliance Genome Browser to display peaks, raw fragments
 
 
 **Navigation**
+
 Navigate to Peak Viewer by clicking the second icon to the left of the feature table. 
 Once your genes are selected, you should see a genome view like this
 
 .. image:: /images/4.png
 
-To view the base-pair-level genome sequence, zoom in greater than 500bp. 
-Toggle between two zoom levels by tapping the space bar.
+ To view the base-pair-level genome sequence, zoom in greater than 500bp. 
+ Toggle between two zoom levels by tapping the space bar.
 
-Double-click on any feature to center it, then zoom in to find other features which might be aligned with it. 
-For larger features, double-click close to the edges of the feature to center that edge.
+ Double-click on any feature to center it, then zoom in to find other features which might be aligned with it. 
+ For larger features, double-click close to the edges of the feature to center that edge.
 
-To jump to a gene location, gene name, or specific coordinates, type it in the location box in the toolbar. If a named feature can be found in any searchable track you currently have active, it will be highlighted in the browser, like this:
+ To jump to a gene location, gene name, or specific coordinates, type it in the location box in the toolbar. If a named feature can be found in any   searchable track you currently have active, it will be highlighted in the browser, like this:
 
 .. image:: /images/5.png
 
-To select a track click its label once, this is called *Leaping*. Activate *Leaping* by clicking the left and right buttons in the toolbar. *Leaping* will take you to the next feature in that direction. 
+ To select a track click its label once, this is called *Leaping*. Activate *Leaping* by clicking the left and right buttons in the toolbar. *Leaping* will  take you to the next feature in that direction. 
 
-To customize tracks select one then open the *Track Editor*, the road icon. 
-Change the order of tracks by dragging the name-tabs and dropping it elsewhere in the browser display. Can reset the browser from the Settings panel.
+ To customize tracks select one then open the *Track Editor*, the road icon. 
+ Change the order of tracks by dragging the name-tabs and dropping it elsewhere in the browser display. Can reset the browser from the Settings panel.
 
 .. image:: /images/6.png
 
 **Adding Data**
-
-To add a new track or select/ deselect clusters, click the plus icon. 
+ To add a new track or select/ deselect clusters, click the plus icon. 
 
 .. image:: /images/8.png
 
-To add arbitrary Distributed Annotation System (DAS) data by running your own DAS server, add custom track or lab-specific data 
+ To add arbitrary Distributed Annotation System (DAS) data by running your own DAS server, add custom track or lab-specific data 
 
 .. image:: /images/9.png
 
-To add indexed binary files, click *Binary* and upload bigBed, bigWig, BAM, or .2bit file.
+ To add indexed binary files, click *Binary* and upload bigBed, bigWig, BAM, or .2bit file.
 
 .. image:: /images/10.png
 
-To view all keyboard shortcuts, click the question mark icon
+ To view all keyboard shortcuts, click the question mark icon
 
 .. image:: /images/11.png
 
-**Export Data**
-
-To export the data as an image, SVG, or Dalliance page by clicking the printer icon. 
+**Export Data** 
+ To export the data as an image, SVG, or Dalliance page by clicking the printer icon. 
 
 .. image:: /images/7.png
