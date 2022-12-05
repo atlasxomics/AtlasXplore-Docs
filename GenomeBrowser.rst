@@ -10,7 +10,7 @@ AtlasXplore uses the BioDalliance Genome Browser to display peaks, raw fragments
 
 **Navigation**
 
-Navigate to Peak Viewer by clicking the second icon to the left of the feature table. 
+Navigate to Peak Viewer by clicking the second icon to the left of the *Feature Table*. 
 Once your genes are selected, you should see a genome view like this
 
 .. image:: /images/4.png
@@ -53,3 +53,9 @@ Once your genes are selected, you should see a genome view like this
  To export the data as an image, SVG, or Dalliance page by clicking the printer icon. 
 
 .. image:: /images/7.png
+
+**Histograms**
+
+To view the histogram for TSS Enrichment and Fragments, click the third icon, the bar graph, to the left of the *Feature Table*
+
+.. image:: /images/12.png
