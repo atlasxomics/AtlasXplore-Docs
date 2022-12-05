@@ -3,11 +3,11 @@ ____________
 
 For spatial ATAC data, AtlasXplore can be used to check the gene score of certain gene/genes. The gene score is a prediction of how highly expressed a gene will be based on the accessibility of regulatory elements in the vicinity of the gene.
 
-Navigate to https://web.atlasxomics.com/
+Access AtlasXplore at https://web.atlasxomics.com/
 
 Navigating the top bar menu (from left to right)
 
-<img width="1509" alt="1" src="https://user-images.githubusercontent.com/117233941/205727302-448586e5-f3d2-4ddf-9b0e-67d4a66bddbb.png">
+    <img width="1509" alt="1" src="https://user-images.githubusercontent.com/117233941/205727302-448586e5-f3d2-4ddf-9b0e-67d4a66bddbb.png">
 
 Gene Motif:
 Lists the species (mouse, rat, human, etc), Organ, Type, and Run ID. 
@@ -29,7 +29,7 @@ Can select or deselect clusters on the right.
 
 Feature table: Lists top 10 ranked genes in each of the clusters. 
 
-<img width="1282" alt="Screen Shot 2022-12-05 at 11 52 49 AM" src="https://user-images.githubusercontent.com/117233941/205730418-acbda812-bb4f-4a39-92d3-930df66f9dee.png">
+    <img width="1282" alt="Screen Shot 2022-12-05 at 11 52 49 AM" src="https://user-images.githubusercontent.com/117233941/205730418-acbda812-bb4f-4a39-92d3-930df66f9dee.png">
 
 To view the heat map for select genes, click any of the listed genes to automatically enter it in the search bar. If your gene of interest is not listed, you can enter it in the search bar. 
 Click the gene in the search bar so that it turns orange and click ‘show’. 
