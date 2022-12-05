@@ -5,7 +5,7 @@ For spatial ATAC data, AtlasXplore can be used to check the gene score of certai
 
 Access AtlasXplore at https://web.atlasxomics.com/
 
-##Navigating the top bar menu (from left to right)
+## Navigating the top bar menu (from left to right)
 
 .. image:: /images/1.png
 
