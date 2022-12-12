@@ -3,6 +3,20 @@ _______________
 
 AtlasXplore uses the BioDalliance Genome Browser to display peaks, raw fragments per cluster, and gene model for the corresponding gene being searched. User can also use the Genome Browser to compare spatial data with other data sets.
 
+For example, if a user is searching for a specific gene, the Genome Browser can display the gene model for that gene, along with any associated peaks and raw fragments per cluster data. This allows the user to see the spatial relationship between the gene and the other data sets, and to compare this relationship to other genes or data sets.
+
+In addition to viewing and comparing data sets, the Genome Browser includes tools for analyzing and manipulating the data. Users can zoom in and out, pan, and search for specific features within the genome. They can also use the browser to perform various types of analyses, such as motif searches and gene expression analysis, to better understand the data and gain insights into the underlying biology.
+
+Genome Browser includes a number of features and tools for exploring, analyzing, and understanding genomic data, including:
+
+*Support for multiple genome assemblies and annotation tracks:* allows users to view and compare different genome assemblies and annotation tracks, such as genes, regulatory elements, and functional features.
+
+*Interactive visualization:* The Genome Browser includes tools for zooming, panning, and searching within the genome, allowing users to easily explore and navigate the data.
+
+*Overlaying of data sets:* allows users to view and compare additional data sets, such as peaks and raw fragments per cluster, that can be overlaid on top of the genome.
+
+*Analysis tools:* Genome Browser includes tools for performing various types of analyses, such as motif searches and gene expression analysis, to gain insights into the underlying biology of the data.
+
 .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/wmv6G4RbtNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
