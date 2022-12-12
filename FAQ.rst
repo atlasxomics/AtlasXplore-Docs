@@ -7,6 +7,11 @@ Deterministic barcoding is a method used in spatial omics sequencing to tag indi
 In spatial omics sequencing, deterministic barcoding is typically performed using microfluidic or other high-throughput methods, which allow many cells or samples to be processed simultaneously. The barcodes are attached to the cells or samples using specific oligonucleotides or other molecules that are complementary to the target DNA or RNA. This ensures that the barcodes are accurately and reliably attached to the cells or samples, and that they do not interfere with the subsequent sequencing reactions.
 Deterministic barcoding is a critical step in spatial omics sequencing, as it allows researchers to accurately and reliably track the cells or samples throughout the process and to generate high-quality, comprehensive data sets. This information can be used to study cellular development, differentiation, and disease at a high resolution, providing valuable insights into the complex mechanisms underlying these processes.
 
+*What is Spatial ATAC-seq?*
+
+Spatial ATAC-seq (Assay for Transposase-Accessible Chromatin using sequencing) is a high-throughput, genome-wide method for mapping the locations of open chromatin in cells. The technique uses transposase, an enzyme that can insert itself into the genome at specific sites, to selectively cut open the chromatin at these sites and make the DNA accessible for sequencing. The resulting data provides a detailed map of the open chromatin in the cell, which can be used to identify regulatory elements and study gene expression and regulation.
+Spatial ATAC-seq is an advanced variation of the traditional ATAC-seq technique, which uses bulk tissue samples rather than individual cells. By analyzing the open chromatin at the single-cell level, spatial ATAC-seq allows researchers to study the spatial organization of the genome and the variations in gene expression and regulation between different cells. This information can be used to better understand cellular development, differentiation, and disease.
+
 *What is a Tixel?*
 
 A Tixel is region on the tissue that has had both barcodes from the B and A chip. Tixels are the basis of how spatial information is encoded from the DBiT process.
@@ -21,11 +26,6 @@ UMIs are useful because they are unique, arbitrary sequences that can be easily 
 
 Region of Interest (ROI) is a specific area of the genome that is of particular interest or relevance to the researcher. This might be a region known to contain a gene of interest, a cluster of regulatory elements, or any other region that is of interest for the specific research question being addressed.
 Defining and analyzing ROIs is an important part of ATAC-seq and dBIT sequencing, as it allows us to focus our analysis on specific areas of the genome that are most likely to provide valuable insights. This can improve the overall efficiency and effectiveness of the analysis.
-
-*What is Spatial ATAC-seq?*
-
-Spatial ATAC-seq (Assay for Transposase-Accessible Chromatin using sequencing) is a high-throughput, genome-wide method for mapping the locations of open chromatin in cells. The technique uses transposase, an enzyme that can insert itself into the genome at specific sites, to selectively cut open the chromatin at these sites and make the DNA accessible for sequencing. The resulting data provides a detailed map of the open chromatin in the cell, which can be used to identify regulatory elements and study gene expression and regulation.
-Spatial ATAC-seq is an advanced variation of the traditional ATAC-seq technique, which uses bulk tissue samples rather than individual cells. By analyzing the open chromatin at the single-cell level, spatial ATAC-seq allows researchers to study the spatial organization of the genome and the variations in gene expression and regulation between different cells. This information can be used to better understand cellular development, differentiation, and disease.
 
 *What is a Gene Score?*
 
