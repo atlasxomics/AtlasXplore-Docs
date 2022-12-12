@@ -49,6 +49,7 @@ Once your genes are selected, you should see a genome view like this
 .. image:: /images/6.png
 
 **Adding Data**
+
 To add data to the Genome Browser, users can use the "Add track" menu located at the top of the browser. This menu allows users to choose from a variety of
 data sources, such as local files, remote files, and indexed databases. Users can also specify the format of the data and any additional options, such as
 the track name and the visibility of the track.
@@ -73,6 +74,7 @@ To add a new track or select/ deselect clusters, click the plus icon.
 .. image:: /images/11.png
 
 **Export Data** 
+
 To export data from the Genome Browser, users can use the "Export" menu located at the top of the browser. This menu allows users to export the data in
 various formats, such as BED, GFF, and FASTA. Users can also specify the region of the genome to export, and any additional options, such as the export
 filename and the data format.
