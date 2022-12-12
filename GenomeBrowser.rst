@@ -49,8 +49,15 @@ Once your genes are selected, you should see a genome view like this
 .. image:: /images/6.png
 
 **Adding Data**
- To add a new track or select/ deselect clusters, click the plus icon. 
+To add data to the Genome Browser, users can use the "Add track" menu located at the top of the browser. This menu allows users to choose from a variety of
+data sources, such as local files, remote files, and indexed databases. Users can also specify the format of the data and any additional options, such as
+the track name and the visibility of the track.
 
+Once the data has been added, it will appear in the track list on the left side of the Genome Browser. Users can then view and analyze the data by clicking
+on the track name and navigating to the region of interest within the genome.
+
+To add a new track or select/ deselect clusters, click the plus icon. 
+ 
 .. image:: /images/8.png
 
  To add arbitrary Distributed Annotation System (DAS) data by running your own DAS server, add custom track or lab-specific data 
@@ -66,11 +73,29 @@ Once your genes are selected, you should see a genome view like this
 .. image:: /images/11.png
 
 **Export Data** 
+To export data from the Genome Browser, users can use the "Export" menu located at the top of the browser. This menu allows users to export the data in
+various formats, such as BED, GFF, and FASTA. Users can also specify the region of the genome to export, and any additional options, such as the export
+filename and the data format.
+
  To export the data as an image, SVG, or Dalliance page by clicking the printer icon. 
 
 .. image:: /images/7.png
 
 **Histograms**
+
+The histogram for TSS enrichment and fragments is a tool that allows users to visualize and analyze the distribution of transcription start sites (TSSs)
+and fragments within a genome or other data set.
+
+TSSs are the starting points of transcription, where the process of converting DNA into RNA begins. TSS enrichment is a measure of the number of TSSs
+present in a given region of the genome, and can be used to identify regions of active transcription or gene regulation.
+
+Fragments refer to small pieces of DNA or RNA that are generated during various biological processes, such as DNA replication or RNA degradation. The
+number and distribution of fragments within a genome can provide insights into the underlying biology and can be used to identify specific features or
+patterns.
+
+The histogram for TSS enrichment and fragments allows users to visualize the distribution of these values within a genome or other data set. The histogram
+can be used to identify regions of the genome that have higher or lower levels of TSS enrichment or fragment density, and to compare these values to other
+data sets or to other regions of the genome.
 
 To view the histogram for TSS Enrichment and Fragments, click the third icon, the bar graph, to the left of the *Feature Table*
 The x-axis is the *gene score*
