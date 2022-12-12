@@ -26,12 +26,14 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
 .. toctree::
    :caption: AtlasXplore:
 
+   Overview
    GeneSearch
    GenomeBrowser
    MotifSearch
    LassoSelector
    Customization
    SavingPlots
+   FAQ
 
 .. toctree::
    :caption: AtlasXomics:
