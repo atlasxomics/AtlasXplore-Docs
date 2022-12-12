@@ -1,4 +1,5 @@
-**Frequently Asked Questions**
+Frequently Asked Questions
+___________________________________
 
 *What is DBiT-seq: Deterministic Barcoding in Tissue for spatial omics sequencing?*
 
