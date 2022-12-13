@@ -5,7 +5,7 @@ AtlasXplore supports using a lasso selector to retrieve the ids of a subset of u
 
 The lasso selector tool allows users to select and highlight specific regions of a genome or other data set and to perform more detailed analyses on those regions.
 
-To use the lasso selector tool in BioDalliance, simply click and drag the cursor over the region of the genome that is of interest. As you move the cursor, a lasso shape will be drawn on the screen, outlining the selected region. 
+To use the lasso selector tool in AtlasXplore, simply click and drag the cursor over the region of the genome that is of interest. As you move the cursor, a lasso shape will be drawn on the screen, outlining the selected region. 
 
 Once a region has been selected with the lasso selector, AtlasXplore will highlight the selected region within the Genome Browser. You can then view and analyze the selected region using the other tools and features of the Genome Browser, such as the heat map and feature table.
 
