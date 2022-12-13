@@ -8,7 +8,7 @@ For example, if a user is searching for a specific gene, the Genome Browser can 
 In addition to viewing and comparing data sets, the Genome Browser includes tools for analyzing and manipulating the data. Users can zoom in and out, pan, and search for specific features within the genome. They can also use the browser to perform various types of analyses, such as motif searches and gene expression analysis, to better understand the data and gain insights into the underlying biology.
 
 **Features**
-
+####################################################
 Genome Browser includes a number of features and tools for exploring, analyzing, and understanding genomic data, including:
 
 *Support for multiple genome assemblies and annotation tracks:* allows users to view and compare different genome assemblies and annotation tracks, such as genes, regulatory elements, and functional features.
@@ -25,7 +25,7 @@ Genome Browser includes a number of features and tools for exploring, analyzing,
 
 
 **Navigation**
-
+####################################################
 Navigate to Peak Viewer by clicking the second icon to the left of the *Feature Table*. 
 Once your genes are selected, you should see a genome view like this
 
@@ -49,7 +49,7 @@ Once your genes are selected, you should see a genome view like this
 .. image:: /images/6.png
 
 **Adding Data**
-
+####################################################
 To add data to the Genome Browser, users can use the "Add track" menu located at the top of the browser. This menu allows users to choose from a variety of
 data sources, such as local files, remote files, and indexed databases. Users can also specify the format of the data and any additional options, such as
 the track name and the visibility of the track.
@@ -74,7 +74,7 @@ To add a new track or select/ deselect clusters, click the plus icon.
 .. image:: /images/11.png
 
 **Export Data** 
-
+####################################################
 To export data from the Genome Browser, users can use the "Export" menu located at the top of the browser. This menu allows users to export the data in
 various formats, such as BED, GFF, and FASTA. Users can also specify the region of the genome to export, and any additional options, such as the export
 filename and the data format.
@@ -84,7 +84,7 @@ filename and the data format.
 .. image:: /images/7.png
 
 **Histograms**
-
+####################################################
 The histogram for TSS enrichment and fragments is a tool that allows users to visualize and analyze the distribution of transcription start sites (TSSs)
 and fragments within a genome or other data set.
 
