@@ -5,10 +5,12 @@ For spatial ATAC data, AtlasXplore can be used to check the gene score of certai
 
 Access AtlasXplore at https://web.atlasxomics.com/
 
-**Navigating the top bar menu (from left to right)**
+**Navigating the Menu**
 ####################################################
 
 .. image:: /images/1.png
+
+From left to right: 
 
 *Gene Motif:*
 Lists the species (mouse, rat, human, etc), Organ, Type, and Run ID. 
