@@ -15,8 +15,6 @@ The deviation score is a bias-corrected measure, which means that it takes into 
 
 In AtlasXplore, the deviation score can be used to check the accessibility of a given motif within a spatial ATAC data set. By comparing the deviation score to the expected accessibility, users can determine if the motif is more or less accessible than expected, and can gain insights into the underlying biology of the data.
 
-For example, users can use the motif search to identify genes or regulatory elements, or to detect conserved sequence features across multiple species. 
-
 .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/aRd8B6STAXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
