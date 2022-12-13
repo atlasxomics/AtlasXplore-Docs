@@ -40,6 +40,7 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
    
    Spatial Epigenome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialEpigenome.html>
    Spatial Transcriptome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialTranscriptome.html>
+   Glossary <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Glossary.html>
 
 .. image:: /images/atlasbg.png
 
