@@ -15,6 +15,18 @@ The deviation score is a bias-corrected measure, which means that it takes into 
 
 In AtlasXplore, the deviation score can be used to check the accessibility of a given motif within a spatial ATAC data set. By comparing the deviation score to the expected accessibility, users can determine if the motif is more or less accessible than expected, and can gain insights into the underlying biology of the data.
 
+**Features**
+#####################
+*Support for multiple data sources:* The motif search in BioDalliance allows users to search for motifs within local or remote data sets, including genomes, transcriptomes, and other types of biological data.
+
+*Customizable patterns:* The motif search allows users to define their own patterns or motifs to search for, using either a sequence of letters or a regular expression. This makes the tool versatile and flexible, and allows users to search for a wide range of patterns and motifs.
+
+*Search options:* The motif search includes a number of options that allow users to customize the search, such as the search direction, the search range, and the match score threshold. These options allow users to fine-tune the search and to optimize the results.
+
+*Results visualization:* The motif search displays the results in a table or list format, with each row representing a different instance of the motif. The results can be sorted and filtered, and can be viewed in the context of the genome or other data set using the Genome Browser.
+
+*Analysis tools:* The motif search includes tools for analyzing the results, such as tools for calculating the enrichment of the motif within the data set and tools for comparing the results to other data sets or to other regions of the genome.
+
 .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/aRd8B6STAXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
