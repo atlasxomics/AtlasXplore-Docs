@@ -18,3 +18,4 @@ To see the top 10 genes within a region, click the lasso tool, the first icon in
 To view the selected tixel IDs and the top 10 genes, click the eye icon on the left toolbar.
 
 .. image:: /images/13.png
+
