@@ -79,7 +79,7 @@ To export data from the Genome Browser, users can use the "Export" menu located 
 various formats, such as BED, GFF, and FASTA. Users can also specify the region of the genome to export, and any additional options, such as the export
 filename and the data format.
 
- To export the data as an image, SVG, or Dalliance page by clicking the printer icon. 
+To export the data as an image, SVG, or Dalliance page by clicking the printer icon. 
 
 .. image:: /images/7.png
 
