@@ -4,7 +4,10 @@ ______________________________________________
 **AtlasXplore** is a tool for visualizing and exploring large-scale genomic data. It is an open-source browser-based application that can be used to view
 and analyze data from a variety of sources, including whole-genome sequence data, transcriptome data, and other types of genomic data.
 
-AtlasXplore includes a range of features and tools that make it easy to explore and analyze genomic data. Some of the key features of AtlasXplore include:
+AtlasXplore includes a range of features and tools that make it easy to explore and analyze genomic data. 
+
+**Key Features**
+################
 
 **User-friendly interface:** AtlasXplore provides a user-friendly interface that allows researchers to quickly and easily explore large data sets. It allows
 users to zoom in and out of the data, to view specific regions of interest, and to highlight or annotate particular features or patterns within the data.
@@ -20,7 +23,10 @@ other information. This can help researchers to organize and interpret the data 
 can facilitate collaboration and help to accelerate the pace of scientific discovery.
 
 In addition to its core features, AtlasXplore includes a range of additional tools that can help researchers to explore and analyze genomic data more
-effectively. Some of these tools include:
+effectively. 
+
+**Key Tools**
+################
 
 **Navigation:** AtlasXplore provides a range of navigation tools that allow users to quickly and easily move around within the data. These tools include
 the ability to zoom in and out of the data, to pan across the data, and to jump to specific regions of interest.
