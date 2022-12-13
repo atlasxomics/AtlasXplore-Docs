@@ -15,8 +15,6 @@ From left to right:
 *Gene Motif:*
 Lists the species (mouse, rat, human, etc), Organ, Type, and Run ID. 
 
-.. image:: /images/2.png
-
 To switch between the gene and motif datasets click *GENE*.
 
 To change the background color click the paint pallete icon. 
