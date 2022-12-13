@@ -21,8 +21,7 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
    ROICharacterization <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/ROICharacterization.html>
    SpatialFolder <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/SpatialFolder.html>
    ExampleWalkthrough <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/ExampleWalkthrough.html>
-   FAQ <https://docs.atlasxomics.com/projects/AtlasXplore/en/latest/FAQ.html>
-
+  
 .. toctree::
    :caption: AtlasXplore:
 
