@@ -26,7 +26,7 @@ Genome Browser includes a number of features and tools for exploring, analyzing,
 
 
 
-**Navigation**
+**Navigating the Peak Viewer**
 ####################################################
 Navigate to Peak Viewer by clicking the second icon to the left of the *Feature Table*. 
 Once your genes are selected, you should see a genome view like this
