@@ -7,7 +7,7 @@ For example, if a user is searching for a specific gene, the Genome Browser can 
 
 In addition to viewing and comparing data sets, the Genome Browser includes tools for analyzing and manipulating the data. Users can zoom in and out, pan, and search for specific features within the genome. They can also use the browser to perform various types of analyses, such as motif searches and gene expression analysis, to better understand the data and gain insights into the underlying biology.
 
-**Features**
+**Features and Tools**
 ####################################################
 Genome Browser includes a number of features and tools for exploring, analyzing, and understanding genomic data, including:
 
