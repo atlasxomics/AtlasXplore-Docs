@@ -1,5 +1,5 @@
-Gene Search
-____________
+Features and Navigation
+__________________________
 
 For spatial ATAC data, AtlasXplore can be used to check the gene score of certain gene/genes. The gene score is a prediction of how highly expressed a gene will be based on the accessibility of regulatory elements in the vicinity of the gene.
 
@@ -52,6 +52,9 @@ A heat map can be used to display the values of a data set, such as gene express
 Heat maps are useful for identifying patterns and trends within the data, such as regions of the genome that have high or low levels of gene expression or conservation. They can also be used to compare data sets, such as to compare the expression levels of different genes or to compare the conservation scores of different species.
 
 To view the heat map for select genes, click any of the listed genes to automatically enter it in the search bar. If your gene of interest is not listed, you can enter it in the search bar. Click the gene in the search bar so that it turns orange and click *show*. Now you’ll be able to view the heat map for the selected gene and repeat the process to view multiple genes at once.
+
+**Gene Search Tutorial**
+###########################
 
 .. raw:: html
 
