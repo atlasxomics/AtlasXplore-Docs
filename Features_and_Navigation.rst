@@ -1,4 +1,4 @@
-Features and Navigation
+Introduction
 __________________________
 
 For spatial ATAC data, AtlasXplore can be used to check the gene score of certain gene/genes. The gene score is a prediction of how highly expressed a gene will be based on the accessibility of regulatory elements in the vicinity of the gene.
@@ -44,14 +44,6 @@ Clustering can be used to group similar features within the genome, such as gene
 To perform clustering, users can use the "Cluster" menu located at the top of the Genome Browser. This menu allows users to specify the data to cluster, the clustering method to use, and any additional options, such as the distance metric and the number of clusters.
 
 Once the clustering has been performed, the results will be displayed in the Genome Browser, with each cluster represented by a different color. Users can then view and analyze the clusters by navigating to different regions of the genome and by using the other tools and features of the Genome Browser.
-
-**Heat Map**
-####################################################
-A heat map can be used to display the values of a data set, such as gene expression levels or conservation scores, across a genome or other data set. The x-axis of the heat map represents the genomic coordinates, and the y-axis represents the data values. The colors in the heat map indicate the magnitude of the values, with warmer colors representing higher values and cooler colors representing lower values.
-
-Heat maps are useful for identifying patterns and trends within the data, such as regions of the genome that have high or low levels of gene expression or conservation. They can also be used to compare data sets, such as to compare the expression levels of different genes or to compare the conservation scores of different species.
-
-To view the heat map for select genes, click any of the listed genes to automatically enter it in the search bar. If your gene of interest is not listed, you can enter it in the search bar. Click the gene in the search bar so that it turns orange and click *show*. Now you’ll be able to view the heat map for the selected gene and repeat the process to view multiple genes at once.
 
 **Gene Search Tutorial**
 ###########################
