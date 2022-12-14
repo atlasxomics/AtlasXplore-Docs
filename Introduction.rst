@@ -47,6 +47,11 @@ Once the clustering has been performed, the results will be displayed in the Gen
 
 **Gene Search Tutorial**
 ###########################
+To search for a gene or genomic region, simply enter the name or coordinates in the search bar at the top of the screen and hit enter. The genome browser will automatically navigate to that location and highlight the relevant feature.
+
+For example, if you search for the gene "Rpusd2", the genome browser will navigate to the location of the Rpusd2 gene on the genome and highlight it on the screen. You can then view detailed information about the gene by clicking on it, or compare it to other tracks in your genome browser.
+
+You can also select multiple genes from the search ba, feature table, or by manually clicking and dragging your mouse across the genome browser to create a selection box. This will highlight and display all genes within the selection box, allowing you to easily view and compare multiple genes at the same time.
 
 .. raw:: html
 
