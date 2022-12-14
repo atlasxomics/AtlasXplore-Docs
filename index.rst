@@ -26,7 +26,7 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
    :caption: AtlasXplore:
 
    Overview
-   Features_and_Navigation
+   Introduction
    GenomeBrowser
    MotifSearch
    LassoSelector
