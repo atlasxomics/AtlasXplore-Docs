@@ -11,7 +11,6 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
 
 .. toctree::
    :caption: AtlasXbrowser:
-   :hidden:
 
    Overview <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/Overview.html>
    Installation <https://docs.atlasxomics.com/projects/AtlasXbrowser/en/latest/Installation.html>
@@ -36,8 +35,7 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
 
 .. toctree::
    :caption: AtlasXomics:
-   :hidden:
-   
+
    Installation <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Installation.html>
    Spatial Epigenome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialEpigenome.html>
    Spatial Transcriptome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialTranscriptome.html>
