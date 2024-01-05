@@ -33,12 +33,6 @@ AtlasXplore is a web-based platform to facilitate the exploration of Spatial Omi
    SavingPlots
    FAQ
 
-.. toctree::
-   :caption: AtlasXomics
-
-   Installation <https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/Installation.html>
-   Spatial Epigenome<https://docs.atlasxomics.com/projects/AtlasXpipeline/en/latest/SpatialEpigenome.html>
-
 .. image:: /images/atlasbg.png
 
 
